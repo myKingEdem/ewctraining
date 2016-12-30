@@ -1,0 +1,9 @@
+---
+:orm: none
+:test: none
+:mock: none
+:script: none
+:renderer: erb
+:stylesheet: none
+:namespace: Ewctraining
+:migration_format: number
