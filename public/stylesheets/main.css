@@ -66,7 +66,7 @@ textarea {
 
 body {
     font: 18px/26px 'Raleway';
-	background: url('../img/background-image.png') 0 0 repeat #F4F4F4;
+	background: url('../images/background-image.png') 0 0 repeat #F4F4F4;
 }
 
 p{font-size: 20px; font-weight: 400; color: #313742;}
@@ -97,7 +97,7 @@ img.hostImage{display: block; margin: 0 auto; padding: 5px; background-color: #F
 #dateTimeHolder{margin-top: 30px; margin-bottom: 25px;}
 
 .calendarHolder{width: 480px; float: left;}
-.dateHolder{width: 123px; height: 127px; background: url('../img/backgroundCalendar.png') left bottom no-repeat; float: left;}
+.dateHolder{width: 123px; height: 127px; background: url('../images/backgroundCalendar.png') left bottom no-repeat; float: left;}
 .dateHolder .top{margin: 0px; border-radius: 3px 3px 0 0; -webkit-border-radius: 3px 3px 0 0; -moz-border-radius: 3px 3px 0 0;background-color: #375d80; height:37px; overflow: hidden;}
 .dateHolder .top p.month{margin: 0px;padding: 0; color: #fdfffe; font-weight: 900; text-align: center; line-height: 37px; font-size: 20px;}
 .dateHolder .bottom{height: 90px; overflow: hidden;}
@@ -141,7 +141,7 @@ a.salesButton1{
 	margin: 0 auto;
 	float: left;
 	
-		background-image: url('../img/buttonArrow.png');
+		background-image: url('../images/buttonArrow.png');
 		background-position: 95% center;
 		background-repeat: no-repeat;
 		background-color:#ffc604;
@@ -149,7 +149,7 @@ a.salesButton1{
 		overflow: auto;
 		padding-bottom: 10px;
 }a.salesButton1:hover{
-		background-image: url('../img/buttonArrow.png');
+		background-image: url('../images/buttonArrow.png');
 		background-position: 95% center;
 		background-repeat: no-repeat;
 		background-color:#ffbe0a;
@@ -170,7 +170,7 @@ a.salesButton2{
 	margin: 0 auto;
 	float: left;
 	
-		background-image: url('../img/buttonArrow.png');
+		background-image: url('../pub/images/buttonArrow.png');
 		background-position: 95% center;
 		background-repeat: no-repeat;
 		background-color:#ffc600;
@@ -178,7 +178,7 @@ a.salesButton2{
 		overflow: auto;
 		padding-bottom: 10px;
 }a.salesButton2:hover{
-		background-image: url('../img/buttonArrow.png');
+		background-image: url('../images/buttonArrow.png');
 		background-position: 95% center;
 		background-repeat: no-repeat;
 		background-color:#ffbe00;
@@ -293,7 +293,7 @@ ul#countdown li {
   	overflow: hidden;
 }
 
-ul#countdown li .time-wrap{background: url('../img/countdown-bg2.png') no-repeat left top #00A3F0;
+ul#countdown li .time-wrap{background: url('../images/countdown-bg2.png') no-repeat left top #00A3F0;
   	width: 59px;
 	height: 62px;
 	border-radius: 3px;
@@ -427,7 +427,7 @@ ul#countdown li p.timeRefSeconds {
 		position:relative;
 		top:1px;
 	}.popup .btn:after{
-		content: url('../img/buttonArrow.png');
+		content: url('../images/buttonArrow.png');
 		position: relative;
 		top: 5px;
 		padding-left: 15px;
