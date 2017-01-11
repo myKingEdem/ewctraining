@@ -1,5 +1,5 @@
 var leadpages_input_data = {
-	'toDate': "2017/01/10 13:00:00 GMT-0500", //Countdown Timer End - (Format: YYYY/MM/DD HH:MM:SS GMT-0400). 24 hour time format, default time zone is EST, and can be changed to any time zone such as GMT+0100.
+	'toDate': "2017/01/12 13:00:00 GMT-0500", //Countdown Timer End - (Format: YYYY/MM/DD HH:MM:SS GMT-0400). 24 hour time format, default time zone is EST, and can be changed to any time zone such as GMT+0100.
 };
 
 $(function() {
