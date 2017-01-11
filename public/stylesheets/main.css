@@ -88,7 +88,7 @@ p{font-size: 20px; font-weight: 400; color: #313742;}
 .hostRight{width:157px; display: inline-block;}
 p.hostTitle{margin: 5px auto; padding: 0; font-size: 14px; line-height: 16px; font-weight: 600; color: #bae5ff; text-align: center;}
 p.hostName{margin: 5px auto 0 auto; padding: 0; font-size: 16px;line-height: 18px; font-weight: 700; color: #faffff; text-align: center;}
-img.hostImage{display: block; margin: 0 auto; padding: 5px; background-color: #F5F5F6; max-width: 150px; }
+img.hostImage{display: block; margin: 0 auto; padding: 5px; background-color: #F5F5F6; max-width: 150px; margin-top: 15px; }
 
 .body-container{margin-top: 20px;}
 .body .headline{font-size: 30px; font-weight: 700; text-align: center; color: #1da2ed; margin: 10px auto; line-height: 32px;}
